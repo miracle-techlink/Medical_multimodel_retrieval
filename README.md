@@ -44,13 +44,3 @@ python query_online.py -query database/001_accordion_image_0001.jpg -index featu
 ### 论文推荐
 
 [**awesome-cbir-papers**](https://github.com/willard-yuan/awesome-cbir-papers)
-
-### 问题汇总
-
-- `query_online.py` line 28报错，将`index.py` line 62注释，使用line 61.
-
-此外，若在使用过程中出现任何问题，请在赞赏留言中留下您的微信，收到消息后我会尽快修复。
-
-<div align="left">
-  <img width="20%" alt="A small reward is highly appreciated! (#^.^#) Thank you~" src="https://github.com/willard-yuan/willard-yuan.github.io/blob/master/images/payimg/weipayimg.jpg">
-</div>
